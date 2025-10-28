@@ -47,9 +47,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'Quais são os 3 tipos de biologia?',
+    'As três principais áreas da biologia podem ser entendidas de diferentes maneiras, mas frequentemente se dividem entre Meio ambiente e biodiversidade, Biotecnologia e produção, e Saúde, conforme definido pelo Conselho Federal de Biologia (CFBio). '
 )
 
 criaCartao(
@@ -59,7 +59,25 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Projeto de Vida',
+    'Quais são os 7 elementos de um projeto?',
+    'Os 7 elementos de um projeto incluem escopo, tempo, custo, qualidade, recursos humanos, comunicações e riscos.'
+)
+
+criaCartao(
+    'Biologia 1 ',
+    'Quais são os 4 reinos?',
+    'Os "quatro reinos" podem se referir aos cinco reinos biológicos (Animalia, Fungi, Monera, Plantae, Protista) em que um dos reinos é omitido, a uma classificação da mística judaica (Mineral, Vegetal, Animal, Humano) ou aos quatro impérios da interpretação bíblica do Livro de Daniel (Babilônia, Medo-Pérsia, Grécia e Roma). '
+)
+
+criaCartao(
+    'Historia',
+    'Quais são os 7 períodos da história?',
+    'A divisão clássica da história é em cinco períodos: Pré-História, Idade Antiga, Idade Média, Idade Moderna e Idade Contemporânea. A Pré-História é anterior à invenção da escrita, e os outros quatro períodos são delimitados por marcos históricos específicos. '
+)
+
+criaCartao(
+    'Robotica',
+    'Qual a função da robótica?',
+    'Essa área busca criar sistemas que possam agir de forma autônoma ou semi-autônoma, executando tarefas com precisão e eficiência, muitas vezes além das capacidades humanas.'
 )
