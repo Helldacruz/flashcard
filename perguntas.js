@@ -31,8 +31,7 @@ criaCartao(
 criaCartao(
     'Ed.Financeira',
     'Quais são as 5 palavras importantes para educação financeira?',
-    'Orçamento,Planejamento,Economia,Investimento e Dívida'
-)
+    'Orçamento,Planejamento,Economia,Investimento e Dívida')
 
 criaCartao(
     'Lingua Portuguesa',
@@ -64,11 +63,7 @@ criaCartao(
     'Os 7 elementos de um projeto incluem escopo, tempo, custo, qualidade, recursos humanos, comunicações e riscos.'
 )
 
-criaCartao(
-    'Biologia 1 ',
-    'Quais são os 4 reinos?',
-    'Os "quatro reinos" podem se referir aos cinco reinos biológicos (Animalia, Fungi, Monera, Plantae, Protista) em que um dos reinos é omitido, a uma classificação da mística judaica (Mineral, Vegetal, Animal, Humano) ou aos quatro impérios da interpretação bíblica do Livro de Daniel (Babilônia, Medo-Pérsia, Grécia e Roma). '
-)
+
 
 criaCartao(
     'Historia',
@@ -80,4 +75,10 @@ criaCartao(
     'Robotica',
     'Qual a função da robótica?',
     'Essa área busca criar sistemas que possam agir de forma autônoma ou semi-autônoma, executando tarefas com precisão e eficiência, muitas vezes além das capacidades humanas.'
+)
+
+criaCartao(
+    'Biologia 1 ',
+    'Quais são os 4 reinos?',
+    'Os "quatro reinos" podem se referir aos cinco reinos biológicos (Animalia, Fungi, Monera, Plantae, Protista) em que um dos reinos é omitido, a uma classificação da mística judaica (Mineral, Vegetal, Animal, Humano) ou aos quatro impérios da interpretação bíblica do Livro de Daniel (Babilônia, Medo-Pérsia, Grécia e Roma). '
 )
